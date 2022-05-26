@@ -131,7 +131,7 @@
 					   		if(event.currentTime>30){
 					   			event.currentTime=0;
 					   			event.pause();
-					   			alert("You need to pay ton continue listening song")
+					   			alert("You need to pay to continue listening song")
 					   		}
 					   	}
 					   </script>
