@@ -63,7 +63,7 @@
 		</div>
 	</nav>
 	<div class="A">
-		<h3 style="text-align: center; font-size:45px; color: red; text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;"><span>MUSIC OFFICER</span></h3>
+		<h3 style="text-align: center; font-size:45px; color: red; text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;"><span>MUSIC OFFICER 6</span></h3>
 	</div>
 	<div id=Mycarousel class="carousel slide" data-ride="carousel">
 		<ol class="carousel-indicators">
