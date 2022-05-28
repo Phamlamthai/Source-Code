@@ -97,7 +97,7 @@
 
 	
 		<?php
-		$connect =mysqli_connect('3.132.234.157','thaipl','123@123a','tunesourcewebsite');
+		$connect =mysqli_connect('3.132.234.157','thaipl','123@123a','thaipl');
 		if(!$connect){
 			echo "Not connect";
 		}
